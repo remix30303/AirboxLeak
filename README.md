@@ -15,5 +15,5 @@ AirBox has hidden webpage `http://192.168.1.1/goform/getWlanClientInfo?rand=` wh
 
 Router: AirBox
 Vendor: Orange
-Firmware version: 3.0.0.4.380_6516
+Firmware version: Y858_FL_01.16_04
     
